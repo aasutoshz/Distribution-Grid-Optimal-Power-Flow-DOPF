@@ -1,4 +1,4 @@
-#SOCP
+# SOCP
 
 Programming language: Python
 
