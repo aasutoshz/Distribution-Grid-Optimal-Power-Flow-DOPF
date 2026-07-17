@@ -17,13 +17,15 @@ This repository contains Python-based optimization models and distribution netwo
 
 **Aashutosh Neupane** - Florida International University (FIU), USA
 
-This Python code was derived from the MATLAB code, tested on the first 20 nodes of the IEEE 123 Node Test Feeder. The contributors of the MATLAB code are:
+This Python code base is built up on previous MATLAB live script (developed and tested on the first 20 nodes of the IEEE 123 Node Test Feeder). The contributors of the MATLAB livescripts were:
 
 **Sumit Paudyal** - Florida International University (FIU), USA
 
 **Anamika Dubey** - Washington State University (WSU), USA
 
 **Sukumar Kamalasadan** - University of North Carolina at Charlotte (UNCC), USA
+
+**Adedoyin Inaolaji** -University at Buffalo, USA
 
 ## Citation
 
